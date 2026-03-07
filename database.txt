@@ -1,0 +1,8 @@
+#0;Amma;1;t1.txt;1;#
+#0;ayta;1;t2.txt;1;#
+#7;Hi;1;t1.txt;2;#
+#7;Hello;2;t1.txt;1;t2.txt;1;#
+#12;Macha;1;t2.txt;1;#
+#20;Uta;1;t2.txt;1;#
+#26;,;1;t2.txt;1;#
+#26;?;1;t2.txt;1;#
