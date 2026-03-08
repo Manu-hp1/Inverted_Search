@@ -66,28 +66,32 @@ This project focuses on implementing efficient search logic using core C program
 ---
 
 ## 📂 Project Structure
-
+```text
 Inverted_Search/
+├── main.h
 ├── main.c
-├── create_db.c
-├── search.c
-├── update_db.c
-├── save_db.c
-├── load_db.c
+├── fun.c
+├── create_DB.c
+├── search_DB.c
+├── update_DB.c
+├── save_DB.c
+├── load_DB.c
 ├── validation.c
-├── header.h
 └── Makefile
-
+```
 ---
 
 ## ▶️ Compilation and Execution
 
 ### Compile:
+```text
 gcc *.c -o inverted_search
+```
 
 ### Run:
+```text
 ./inverted_search file1.txt file2.txt file3.txt
-
+```
 ---
 
 ## 🧪 Sample Usage
