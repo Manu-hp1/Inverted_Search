@@ -96,6 +96,7 @@ gcc *.c -o inverted_search
 
 ## 🧪 Sample Usage
 
+```text
 ==================== INVERTED SEARCH ENGINE ====================
 1] Create Database
 2] Display Database
@@ -111,6 +112,7 @@ Word "data" found in:
 file1.txt - 3 times
 file2.txt - 1 time
 
+```
 ---
 
 ## 📊 Key Functionalities
